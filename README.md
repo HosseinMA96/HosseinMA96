@@ -41,17 +41,9 @@ I'm passionate about building reliable backend systems, cloud infrastructure, an
 
 ---
 
-## 📊 GitHub Stats
-
-![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HosseinMA96&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinMA96&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
-- 💼 *[LinkedIn](https://www.linkedin.com/in/hoss-arjo/)*: 
+- 💼 *[LinkedIn](https://www.linkedin.com/in/hoss-arjo/)*
 
 ---
 
