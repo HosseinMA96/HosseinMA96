@@ -51,9 +51,7 @@ I'm passionate about building reliable backend systems, cloud infrastructure, an
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 🌐 Personal Website: *(optional)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: *[(add your LinkedIn URL)](https://www.linkedin.com/in/hoss-arjo/)*
 
 ---
 
