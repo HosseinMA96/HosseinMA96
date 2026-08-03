@@ -1,17 +1,60 @@
-### Hi there 👋
+# Hi, I'm Hossein Arjomandi 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinMA96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**HosseinMA96/HosseinMA96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at Microsoft | M.S. in Computer Science (UIUC) | Backend • Distributed Systems • AI
 
-Here are some ideas to get you started:
+I'm passionate about building reliable backend systems, cloud infrastructure, and AI-powered applications. I enjoy solving challenging engineering problems and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 Software Engineer at Microsoft
+- 🎓 M.S. in Computer Science, University of Illinois Urbana-Champaign
+- 🌐 Interested in Distributed Systems, Cloud Computing, AI, and Backend Engineering
+- 🛠️ Currently building personal software projects and exploring agentic AI
+- 🎼 Hobbyist harp player
+- 🏋️ Enjoy fitness, swimming, figure skating, photography, and motorcycles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A26?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HosseinMA96&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinMA96&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 🌐 Personal Website: *(optional)*
+- 📧 Email: *(optional)*
+
+---
+
+> "Always learning. Always building."
